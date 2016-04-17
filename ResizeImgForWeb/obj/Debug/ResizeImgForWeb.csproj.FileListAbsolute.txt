@@ -1,0 +1,6 @@
+c:\users\idmty\documents\visual studio 2015\Projects\ResizeImgForWeb\ResizeImgForWeb\bin\Debug\ResizeImgForWeb.exe.config
+C:\Users\idmty\Documents\Visual Studio 2015\Projects\ResizeImgForWeb\ResizeImgForWeb\bin\Debug\ResizeImgForWeb.exe
+C:\Users\idmty\Documents\Visual Studio 2015\Projects\ResizeImgForWeb\ResizeImgForWeb\bin\Debug\ResizeImgForWeb.pdb
+C:\Users\idmty\Documents\Visual Studio 2015\Projects\ResizeImgForWeb\ResizeImgForWeb\obj\Debug\ResizeImgForWeb.csprojResolveAssemblyReference.cache
+C:\Users\idmty\Documents\Visual Studio 2015\Projects\ResizeImgForWeb\ResizeImgForWeb\obj\Debug\ResizeImgForWeb.exe
+C:\Users\idmty\Documents\Visual Studio 2015\Projects\ResizeImgForWeb\ResizeImgForWeb\obj\Debug\ResizeImgForWeb.pdb
